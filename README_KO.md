@@ -1,5 +1,7 @@
 # Delta Portfolio — Systems & Engine Programming
 
+![USPTO](https://img.shields.io/badge/USPTO-Patent%20Pending-005A9C?style=for-the-badge)
+
 **코어 소스코드 비공개 안내**
 
 본 레포지토리는 포트폴리오 쇼케이스용 공간입니다.
