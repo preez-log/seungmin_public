@@ -6,15 +6,6 @@ Application #19/641,687 — Method and System for Audiovisual Synchronization an
 
 <br/>
 
-**Notice: Core Source Code is Private**
-
-This repository is a portfolio showcase.
-The core source code for the custom D3D11 engine, kernel-level virtual audio driver,
-AMD SVM hypervisor, and HFT trading bot is kept private for IP protection and security reasons.
-*Full source code is available via ZIP submission upon request for job applications.*
-
-<br/>
-
 ## Performance Metrics & System Logs
 
 <img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/da00b32d-2b16-4574-a3df-d2f5b55873e9" />
@@ -26,6 +17,15 @@ AMD SVM hypervisor, and HFT trading bot is kept private for IP protection and se
 ---
 
 ## Core Architecture & Features
+
+<br/>
+
+**Notice: Core Source Code is Private**
+
+This repository is a portfolio showcase.
+The core source code for the custom D3D11 engine, kernel-level virtual audio driver,
+AMD SVM hypervisor, and HFT trading bot is kept private for IP protection and security reasons.
+*Full source code is available via ZIP submission upon request for job applications.*
 
 <br/>
 
